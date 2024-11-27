@@ -1,3 +1,2 @@
-pip >= 24.2
-pygit2 >= 1.16.0
+pygit2 >= 1.15.0
 flask
